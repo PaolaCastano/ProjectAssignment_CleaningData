@@ -47,7 +47,7 @@ This Project Assignment includes the following files:
 
 - 'CodeBook.md' : Data Dictionary explaining the abbreviations and the units for the variables used 
 
-- 'abbreviations_info.md' : A description for the abbreviations in the name variables
+- 'abbreviations_info.md' : A description for the abbreviations in the name variables used
 
 
 Notes: 

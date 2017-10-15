@@ -3,7 +3,7 @@ title: "CodeBook.md"
 output: html_document
 ---
 
-DATA DICTIONARY - AVERAGES DATA
+DATA DICTIONARY - AVERAGES DATA SET
 ==================================
 ```
 #subject 
@@ -49,8 +49,11 @@ The six activities that each person performed
 6. LAYING
 
 #Variables 
-Measurements on the mean and standard deviation for each measurement. All are normalized and bounded within [-1,1]. Unitless. Please check the description for the abbreviations in the name variables, provided in the file "abbreviations_info.md". 
-1.  tBodyAccmeanX
+Measurements on the mean and standard deviation for each measurement. 
+All are normalized and bounded within [-1,1]. Unitless. 
+Please check the description for the abbreviations in the name variables, 
+provided in the file "abbreviations_info.md". 
+1  tBodyAccmeanX
 2  tBodyAccmeanY
 3  tBodyAccmeanZ
 4  tBodyAccstdX

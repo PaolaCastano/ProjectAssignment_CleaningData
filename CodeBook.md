@@ -6,7 +6,7 @@ output: html_document
 DATA DICTIONARY - AVERAGES DATA
 ==================================
 
-##subject 
+#subject 
         The group of 30 volunteers who carried out the experiment
         1    subject 1
         2    subject 2
@@ -38,7 +38,7 @@ DATA DICTIONARY - AVERAGES DATA
         28  subject 28
         29  subject 29
         30  subject 30
-##Activities 
+#Activities 
         The six activities that each person performed
         WALKING
         WALKING_UPSTAIRS
@@ -47,7 +47,7 @@ DATA DICTIONARY - AVERAGES DATA
         STANDING
         LAYING
 
-##Variables 
+#Variables 
         Measurements on the mean and standard deviation for each measurement. All are normalized and bounded within [-1,1]. Unitless. Please check the description for the abbreviations in the name variables, provided in the file "abbreviations_info.md". 
         1  tBodyAccmeanX
         2  tBodyAccmeanY

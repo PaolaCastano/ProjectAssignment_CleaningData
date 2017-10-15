@@ -35,7 +35,8 @@ The funtion "run_analysis" loads the raw data into R, and cleans the dataset by 
 the average of each variable for each activity and each subject.
 
 This code produces an independent tidy data set with the average of each variable 
-(group by activity and subject) which is called Averages_Data.txt
+(group by activity and subject) which is called Averages_Data.txt. A detailed description for the 
+abbreviations in the name variables is provided in the file 'abbreviations_info.md'
 
 This Project Assignment includes the following files:
 =========================================
